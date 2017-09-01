@@ -4,6 +4,6 @@ var height = 74
 var message = `${name} is ${height} inches tall`
 var new = `${name} eats ${height} sandwiches weekly`
 
-console.log(message)
+console.log(new)
 
 module.exports = {name, height, message}
